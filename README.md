@@ -1,6 +1,6 @@
 # Alerta de Ingressos
 
-Este projeto monitora a página de ingressos e avisa quando eles estiverem disponíveis.
+Este projeto monitora a página de ingressos e avisa, com barulho, quando eles estiverem disponíveis.
 
 ## Requisitos
 - Python 3
